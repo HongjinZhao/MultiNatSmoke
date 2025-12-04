@@ -1,4 +1,4 @@
-# AnySmoke: Segment Any Wildfire Smoke Dataset and Benchmark
+# [WACV 2026] AusSmoke meets MultiNatSmoke: a fully-labelled diverse smoke segmentation dataset
 
 ---
 
