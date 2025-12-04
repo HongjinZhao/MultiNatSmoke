@@ -5,9 +5,9 @@
 ## Overview
 <img src="assets/regions.jpg" alt="Country-wise distribution of the AnySmoke dataset" width="1000"/>
 
-**AnySmoke** is the official implement for our paper _“AnySmoke: Segment Any Wildfire Smoke Dataset and Benchmark”_. It provides:
+The official implement for our paper _“AusSmoke meets MultiNatSmoke: a fully-labelled diverse smoke segmentation dataset”_. It provides:
 
-- A new wildfire smoke segmentation dataset, named **AnySmoke**, including smoke images around the world. 
+- A new wildfire smoke segmentation dataset, named **MultiNatSmoke**, including smoke images around the world. 
 - Evaluation scripts for state-of-the-art segmentation models on this dataset.
 - Baseline results and benchmark metrics.
 
